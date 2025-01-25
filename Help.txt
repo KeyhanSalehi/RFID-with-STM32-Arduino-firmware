@@ -1,0 +1,1 @@
+Config the RFID with STM32f103c8t6(blue pill) and arduino firmware use platformIO
